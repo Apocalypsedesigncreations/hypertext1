@@ -1,0 +1,44 @@
+/* STYLES */
+
+body {
+    background: #000;
+    color: crimson;
+    font-size: 18pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main {
+max-width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
+
+h1 {
+background-color: blueviolet;
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: black;
+font-weight: bolder;
+font-size: 60pt;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: maroon;
+text-align: center;
+}
+
+h2 {
+font-weight: 800pt;
+font-size: 30pt;
+background: crimson;
+color: blue;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: red;
+}
+
+em {
+    padding-left: 300px;
+}
+
+ul {
+border: inset 10px;
+border-color: blue;
+}
+
